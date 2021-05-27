@@ -6,3 +6,5 @@ Normally, **JWE Additional Authenticated Data** includes **Encoded Protected Hea
 but this lib allows to change this behavior.
 
 Added extra option ```excludeHeaderFromAad``` to methods ```JWE.createEncrypt(options,...)``` and ```JWE.createDecrypt(key, options)```
+
+Usage: ```JWE.createEncrypt({ excludeHeaderFromAad: true },...)```
