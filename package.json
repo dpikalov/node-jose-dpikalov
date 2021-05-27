@@ -1,5 +1,5 @@
 {
-  "name": "node-jose",
+  "name": "node-jose-dpikalov",
   "version": "2.0.0",
   "description": "A JavaScript implementation of the JSON Object Signing and Encryption (JOSE) for current web browsers and node.js-based servers",
   "keywords": [
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/cisco/node-jose.git"
+    "url": "https://github.com/dpikalov/node-jose-dpikalov.git"
   },
   "license": "Apache-2.0",
   "author": "Cisco Systems, Inc. <https://www.cisco.com>",
